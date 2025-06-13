@@ -6,7 +6,6 @@ export const Hero = () => {
             <img width="25%" src="/noBgColor.png"/>
             </div>
       {/* Shadow effect */}
-      <div className="shadow"></div>
     </section>
   );
 };
